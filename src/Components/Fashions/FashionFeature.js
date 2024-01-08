@@ -13,28 +13,36 @@ function FashionFeature() {
         <HomeData
           image={HomeMenu1}
           heading="Female Fashions"
-          text="Karigor celebrates Pohela Boishakh Every Year which is first day of Bengali New Year. The program is organized in a style that gives same flavour like Bangladesh."
+          text="Female section mainly deals with female's wear covering
+          latest and most updated designs.
+          RK Fashions have variety of collection covering - Sharees, T-Shirt, Salwar
+          Kameez, Pants and shirts."
           url="/boishakh"
         />
 
         <HomeData
           image={HomeMenu2}
           heading="Male Fashions"
-          text="Karigor production organizes reality talk show with the Bangladeshi origin nationals from different professions and who are very successful in their own career."
+          text="Man section mainly deals with man’s wear covering latest and
+          most updated designs. RK Fashions and Jewelry have
+          variety of collection covering - Shirt, trousers, Panjabi, Fatua to choose."
           url="/ekCupCha"
         />
 
         <HomeData
           image={HomeMenu3}
           heading="Children Fashions"
-          text="Karigor organizes different cultural events including Anando Mela, Drama, Musical Events or Picnics - where all are very popular to the Bangladeshi community."
+          text="Girls section completely deals with girls's wear those are of latest
+          and updated designs. We
+          have variety of collection covering - Panjabees, T-Shirt, Salwar Kameez, Pants
+          and shirts."
           url="/kpCulture"
         />
 
         <HomeData
           image={HomeMenu4}
           heading="Jewelry"
-          text="Karigor telecasts news that always shows the updated information for Bangladeshi covering local, national or international events related to Bangladeshi community."
+          text="RK Fashions has a large collection of Jewelry fashionable items that matches your dress. These are mainly imitation jewelry that looks like gold or dimond but price are affordable."
           url="/kpNews"
         />
       </div>

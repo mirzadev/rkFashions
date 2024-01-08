@@ -19,7 +19,7 @@ const HomeMain = () => {
       <p>A promising corporation that leads in Fashion and Jewelry industry</p>
       <HomeMainData
         heading="RK Fashions & Jewelry"
-        text="RK Production and Cultural Society is a cultural organization and a production house located in West Palm Beach, Florida, USA. Since inception, the organization is dedicated to upholding the cultural heritage of Bangladesh in US soil. Members of RK come from different social, educational, religion and age backgrounds. One of the main aims of this organization is to keep our future generation updated about the cultural diversity of Bangladesh. Every year with the generous assistance of Bangladeshi community, Bengali new year festival 'Pohela Boishakh' is arranged."
+        text="RK Fashion & Jewelry is a new light in the fashion design and jewelry industry that sells the latest dresses and imitation jewelry items to the general customers at the best and most affordable price. It mainly focuses on customers’ requirements. This is completely an online service where modern dresses and jewelry items are displayed with expected prices on this web page and once the valued customers like it can check out for payment options. Customers can physically come and pick up the items or it can be shipped to the customer’s address as desired."
         img1={homeMain_1}
         img2={homeMain_2}
         img3={homeMain_3}
@@ -34,17 +34,17 @@ const HomeMain = () => {
         <div className="fashion-text">
           <h2>RK Fashion - General</h2>
           <p>
-            RK Production started its journey with culturally reach 5 young and
-            energetic members of Bangladeshi community name - Tipu, Rony, Anik,
-            Rocky and Shaikh. After glorious victory of Bangladesh Cricket team
-            in 2014, RK produced their first promo - Bangladesh World Cup Flash
-            Mob and then a short film - Unlimited Shoe where both were highly
-            appreciated by the community people. This greatly inspired the RK
-            members to work more and produce some dramas like Onir Golpo,
-            advertisement for all Bangladeshi organizations, Anando Mela, and
-            few successful cultural programs. advertisement for all Bangladeshi
-            organizations, advertisement for all Bangladeshi organizations,
-            Anando Mela, and few successful
+            RK Fashion and Jewelry has a great collection of fashion clothing
+            and imitation jewelry for the man, ladies and children. For each
+            category has a separate section where all updated fashionable
+            dresses for that category has been displayed. Female section mainly
+            covers female dresses where men's section displays men's best
+            collection. RK fashion always gives priority to your beloved
+            childrens where variety of products for the boys and girls are
+            displayed in children section. You will love our variety of large
+            collection. If you like some dress just contact us using our contact
+            page option. Our team members will contact you immediately and
+            deliver your desired items in shortest possible time.
           </p>
         </div>
       </div>
@@ -53,15 +53,16 @@ const HomeMain = () => {
         <div className="female-text">
           <h2>RK Fashions - Female</h2>
           <p>
-            RK mission is selected considering the cultural heritage of
-            Bangladesh and the children who are born and lives in USA. These
-            Childrens normally has to adopt two cultures i.e., American, and
-            also Bangladesh. Therefore, RK Production selected their mission as
-            under. RK mission is selected considering the cultural heritage of
-            Bangladesh and the children who are born and lives in USA. These
-            Childrens normally has to adopt two cultures i.e., American, and
-            also Bangladesh. Therefore, RK Production selected their mission as
-            under. Therefore, RK Production selected their mission.
+            Female section completely deals with female's wear those are of
+            latest and updated designs directly purchased from the manufacturer.
+            We have variety of collection covering - Sharees, T-Shirt, Salwar
+            Kameez, Pants and shirts. Sarees and Salwar Kamiz has a large
+            variety of collection from different manufacturer. Most of the
+            clothings price ranges as per the quality of the product. These also
+            varies as per seasons. RK fashion respects the religious values of
+            any religion. RK Fashion and Jewelry collections are perfect match
+            for your daily needs. Select your desired clothings and contact us.
+            Our team will deliver your product immediately.
           </p>
         </div>
         <div className="female-image">
@@ -77,12 +78,12 @@ const HomeMain = () => {
         <div className="fashion-text">
           <h2>RK Fashion - Male</h2>
           <p>
-            RK Production started its journey with culturally reach 5 young and
-            energetic members of Bangladeshi community name - Tipu, Rony, Anik,
-            Rocky and Shaikh. After glorious victory of Bangladesh Cricket team
-            in 2014, RK produced their first promo - Bangladesh World Cup Flash
-            Mob and then a short film - Unlimited Shoe where both were highly
-            appreciated by the community people.
+            Man section completely deals with man’s wear those are of latest and
+            updated designs directly purchased from the manufacturer. We have
+            variety of collection covering - Shirt, trousers, Panjabi, Fatua.
+            Most of the products follows Indian / Bangladeshi cultures. Shirts
+            includes full sleeve or half sleev which are most suitable for
+            office / party environment.
           </p>
         </div>
       </div>
@@ -90,15 +91,16 @@ const HomeMain = () => {
         <div className="female-text">
           <h2>RK Fashions - Girls</h2>
           <p>
-            RK mission is selected considering the cultural heritage of
-            Bangladesh and the children who are born and lives in USA. These
-            Childrens normally has to adopt two cultures i.e., American, and
-            also Bangladesh. Therefore, RK Production selected their mission as
-            under. RK mission is selected considering the cultural heritage of
-            Bangladesh and the children who are born and lives in USA. These
-            Childrens normally has to adopt two cultures i.e., American, and
-            also Bangladesh. Therefore, RK Production selected their mission as
-            under. Therefore, RK Production selected their mission as under.
+            Girls section completely deals with girls's wear those are of latest
+            and updated designs directly purchased from the manufacturer. We
+            have variety of collection covering - T-Shirt, Salwar Kameez, Pants
+            and shirts. These has a large variety of collection from different
+            manufacturer. Most of the clothings price ranges as per the quality
+            of the product. These also varies as per seasons. RK fashion
+            respects the religious values of any religion. RK Fashion and
+            Jewelry collections are perfect match for your daily needs. Select
+            your desired clothings and contact us. Our team will deliver your
+            product immediately.
           </p>
         </div>
         <div className="female-image">
@@ -114,16 +116,16 @@ const HomeMain = () => {
         <div className="fashion-text">
           <h2>RK Fashion - Boys</h2>
           <p>
-            RK Production started its journey with culturally reach 5 young and
-            energetic members of Bangladeshi community name - Tipu, Rony, Anik,
-            Rocky and Shaikh. After glorious victory of Bangladesh Cricket team
-            in 2014, RK produced their first promo - Bangladesh World Cup Flash
-            Mob and then a short film - Unlimited Shoe where both were highly
-            appreciated by the community people. This greatly inspired the RK
-            members to work more and produce some dramas like Onir Golpo,
-            advertisement for all Bangladeshi organizations, Anando Mela, and
-            few successful cultural programs. advertisement for all Bangladeshi
-            organizations, advertisement for
+            Boys section completely deals with boy's wear those are of latest
+            and updated designs directly purchased from the manufacturer. We
+            have variety of collection covering - T-Shirt, Panjabee, Fatua,
+            Shirts, Pants and shorts. These has a large variety of collection
+            from different manufacturer. Most of the clothings price ranges as
+            per the quality of the product. These also varies as per seasons. RK
+            fashion respects the religious values of any religion. RK Fashion
+            and Jewelry collections are perfect match for your daily needs.
+            Select your desired clothings and contact us. Our team will deliver
+            your product immediately.
           </p>
         </div>
       </div>
