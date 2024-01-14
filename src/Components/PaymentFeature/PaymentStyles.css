@@ -1,0 +1,32 @@
+.payment-heading {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: rgb(6, 6, 146);
+}
+
+.payment-heading-expl {
+  color: navy;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+
+.payment-container {
+  margin: 2rem 4rem;
+  color: rgb(6, 6, 146);
+  text-align: justify;
+}
+
+@media screen and (max-width: 850px) {
+  .payment-heading {
+    margin-top: 1.5rem;
+    font-size: 1.6rem;
+  }
+
+  .payment-heading-expl {
+    font-size: 1rem;
+  }
+
+  .payment-container {
+    margin: 2rem 2rem;
+  }
+}
