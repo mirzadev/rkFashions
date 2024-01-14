@@ -1,5 +1,6 @@
 import Navbar from "../Components/NavbarItems/Navbar";
 import FashionFeature from "../Components/Fashions/FashionFeature";
+import Footer from "../Components/FooterItems/Footer";
 import HomeMain from "../Components/HomeMain/HomeMain";
 import Hero from "../Components/HeroSection/Hero";
 import home_cover from "../Components/Assets/Hero/home_cover_1.jpg";
@@ -19,6 +20,7 @@ function Home() {
       />
       <HomeMain />
       <FashionFeature />
+      <Footer />
     </>
   );
 }

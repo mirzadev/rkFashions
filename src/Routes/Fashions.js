@@ -1,6 +1,7 @@
 import Navbar from "../Components/NavbarItems/Navbar";
 import HeroOther from "../Components/HeroSection/HeroOther";
-import fashionCoverPic from "../Components/Assets/Fashions/FashionsPageCoverPic.jpg";
+import Footer from "../Components/FooterItems/Footer";
+import fashionCoverPic from "../Components/Assets/Fashions/FashionCoverPic.jpg";
 import FashionFeature from "../Components/Fashions/FashionFeature";
 
 function Fashions() {
@@ -14,6 +15,7 @@ function Fashions() {
         btnClass="hide"
       />
       <FashionFeature />
+      <Footer />
     </>
   );
 }
