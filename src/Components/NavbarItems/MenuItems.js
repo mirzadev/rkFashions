@@ -22,7 +22,7 @@ export const MenuItems = [
 
   {
     title: "Jewelry",
-    url: "/gallery",
+    url: "/jewelry",
     CName: "nav-links",
     icon: "fa-solid fa-gem",
   },

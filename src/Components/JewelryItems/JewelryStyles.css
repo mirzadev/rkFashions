@@ -1,0 +1,149 @@
+.rk-jewelry-heading {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: rgb(6, 6, 146);
+}
+
+.rk-jewelry-heading-expl {
+  color: navy;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+
+.jewelry-container {
+  margin: 2rem 4rem;
+  color: rgb(6, 6, 146);
+  text-align: justify;
+}
+
+.bracelet-cart-heading,
+.jewelry-cart-heading {
+  padding-top: 2rem;
+  justify-content: center;
+  font-size: 1.7rem;
+}
+
+.bracelet-cart-heading h3,
+.jewelry-cart-heading h3 {
+  text-align: center;
+}
+
+.bracelet-cart,
+.jewelry-cart {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bracelet-item,
+.jewelry-item {
+  width: 30%;
+  text-align: start;
+  padding: 1rem;
+  box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.19);
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.bracelet-item h3,
+.jewelry-item h3 {
+  font-size: 1.2rem;
+}
+
+.bracelet-item p,
+.jewelry-item p {
+  font-size: 1.2rem;
+}
+
+.bracelet-item-image,
+.jewelry-item-image {
+  height: auto;
+  overflow: hidden;
+  border-radius: 7px;
+}
+
+.bracelet-item-image img,
+.jewelry-item-image img {
+  width: 100%;
+  height: auto;
+  transition: 0.3s ease-in-out;
+  border-radius: 7px;
+}
+
+.bracelet-item-image:hover img,
+.jewelry-item-image:hover img {
+  transform: scale(1.3);
+}
+
+.add-to-cart-button {
+  background: rgb(240, 238, 209);
+  width: 100%;
+  padding: 1rem;
+  color: navy;
+  border-radius: 0.5rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.2rem;
+  width: 100%;
+  margin-top: 2rem;
+  border: solid rgb(196, 196, 190);
+}
+.add-to-cart-button:hover {
+  background: rgb(243, 240, 181);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.jewelry-main-heading {
+  text-align: left;
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 850px) {
+  .rk-jewelry-heading {
+    margin-top: 1.5rem;
+    font-size: 1.6rem;
+  }
+
+  .rk-jewelry-heading-expl {
+    font-size: 1rem;
+  }
+
+  .jewelry-container {
+    margin: 2rem 2rem;
+  }
+  .bracelet-cart,
+  .jewelry-cart {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .bracelet-cart-heading,
+  .jewelry-cart-heading {
+    padding-top: 1rem;
+    font-size: 1.4rem;
+  }
+
+  .bracelet-item,
+  .jewelry-item {
+    width: 100%;
+  }
+
+  .bracelet-item h3,
+  .jewelry-item h3 {
+    font-size: 1rem;
+  }
+
+  .bracelet-item p,
+  .jewelry-item p {
+    font-size: 1rem;
+  }
+
+  .add-to-cart-button {
+    font-size: 1rem;
+  }
+
+  .jewelry-main-heading {
+    margin-top: 1.5rem;
+  }
+}
